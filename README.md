@@ -51,7 +51,15 @@ I love fantasy and sci-fi worlds 👽🛸, and exploring tech communities and co
 ---
 
 ## 💼 Previous job Positions
-🔹 Software Engineer at Max Mara Fashion Group
+🔹 Software Engineer at Max Mara Fashion Group:
+    🔹 Developed and maintained internal software solutions supporting ERP and PLM systems across
+      group subsidiaries.
+    🔹 Provided secondary-level support for daily business operations, resolving user requests and technical
+      issues related to ERP/PLM services.
+    🔹Collaborated with cross-functional teams using tools like Figma and Git to streamline development
+      processes.
+    🔹 Participated in sprint planning, daily stand-ups, and code reviews.
+    🔹 Worked in a corporate, multinational structure with cross-departmental communication.
 
 ---
 
