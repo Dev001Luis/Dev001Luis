@@ -42,11 +42,9 @@ I love fantasy and sci-fi worlds 👽🛸, and exploring tech communities and co
 
 ## 📊 My GitHub Stats & 🔥 Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev001Luis&layout=compact&theme=radical)
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dev001Luis&theme=dark" alt="GitHub Streak" />
-</a>
+&nbsp;&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev001Luis&layout=compact&theme=radical)  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git.io/streak-stats"><img height="140" src="https://streak-stats.demolab.com?user=Dev001Luis&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
