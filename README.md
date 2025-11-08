@@ -61,7 +61,7 @@ I love fantasy and sci-fi worlds 👽🛸, and exploring tech communities and co
 
 ---
 
-## 🌟 Skills and Technologies
+## 🌟 Skills and Technologies 
 
 ### **Programming Languages and Frameworks**
 
