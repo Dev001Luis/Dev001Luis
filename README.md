@@ -12,7 +12,7 @@
 I’m Luis, a Full Stack Developer passionate about connecting people, technology, and ideas.
 
 🔭  🐍I love working on Python projects🐍 
-
+ 
 **My mindset?**
 
 Effective communicator and collaborator who thrives in team environments.
