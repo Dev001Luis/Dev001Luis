@@ -22,7 +22,7 @@ I'm a dedicated learner 🌱. Just like mastering a new challenging complex game
 Always seek out new knowledge and fresh perspectives.
 I love fantasy and sci-fi worlds 👽🛸, and exploring tech communities and coding workshops.
 
-### 📫 Contacts
+### 📫 Contacts 
 
 <p align="left">
   <a href="https://github.com/GiorgioAntonelli94" target="_blank" rel="noreferrer">
