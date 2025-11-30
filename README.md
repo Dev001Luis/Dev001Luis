@@ -28,7 +28,7 @@ I love fantasy and sci-fi worlds 👽🛸, and exploring tech communities and co
   <a href="https://github.com/GiorgioAntonelli94" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/Dev001Luis" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
